@@ -1,0 +1,30 @@
+#form_pub {
+    padding: 20px;
+    background-color: wheat;
+}
+
+#publi input[type="text"] {
+    width: 100%;
+    height: 100px;
+    resize: none;
+    margin-bottom: 20px;
+}
+
+#publi input[type="submit"] {
+    float: right;
+}
+
+.chargement{
+    font-style: italic;
+}
+
+.nom-user{
+    color: blue;
+    font-weight: bold;
+}
+
+#apercu .vatany_pub{
+    background-color:tan;
+    margin-bottom: 20px;
+    padding: 20px;
+}
